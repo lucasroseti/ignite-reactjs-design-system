@@ -7,7 +7,7 @@ import {
   lineHeights,
   radii,
   space,
-} from '@ignite-ui/tokens'
+} from '@roseti-ignite-ui/tokens'
 
 export const {
   styled,
